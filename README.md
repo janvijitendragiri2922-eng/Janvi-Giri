@@ -90,6 +90,32 @@ I am a quick learner, passionate about technology, and looking for an entry-leve
 - Added form validation and error handling
 - Tested the application and improved performance
 
+  ### Product & Recipe Management System
+
+**Role:** Frontend Developer
+
+**Technologies Used:**
+- Next.js
+- React.js
+- TypeScript
+- HTML
+- CSS
+- React Context API
+- DummyJSON API
+- Git & GitHub
+
+**My Contributions:**
+- Developed a common dashboard for Product & Recipe Management.
+- Created reusable React components for forms, cards, search, sorting and pagination.
+- Implemented product & recipe CRUD operations.
+- Integrated DummyJSON API for user authentication and product data.
+- Implemented search, sorting, category filtering and pagination functionality.
+- Used React Context API to share data and functions across components.
+- Created dynamic routes to display individual product and recipe details.
+- Designed a user-friendly interface with sidebar navigation.
+- Tested application functionality and fixed bugs.
+
+
 ## Contact
 Email: janvijitendragiri2922@gmail.com
 GitHub: github.com/janvijitendragiri2922-eng
