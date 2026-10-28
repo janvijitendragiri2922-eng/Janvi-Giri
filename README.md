@@ -115,6 +115,28 @@ I am a quick learner, passionate about technology, and looking for an entry-leve
 - Designed a user-friendly interface with sidebar navigation.
 - Tested application functionality and fixed bugs.
 
+-   ### Arithmetic Operator Calculator Collection
+
+**Role:** Frontend Developer
+
+**Technologies Used:**
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Vite
+- Git & GitHub
+
+**Calculators Included:**
+- Advanced Calculator
+- Algorithm Calculator
+- Compound Interest Calculator
+- 
+
+  **My Contributions:**
+- Developed a common dashboard for Product & Recipe Management.
+- Created reusable React components for forms, cards, search
+
 
 ## Contact
 Email: janvijitendragiri2922@gmail.com
