@@ -131,11 +131,22 @@ I am a quick learner, passionate about technology, and looking for an entry-leve
 - Advanced Calculator
 - Algorithm Calculator
 - Compound Interest Calculator
-- 
+- EMI Calculator
+- Expression Calculator
+- Financial Calculator
+- History Calculator
+- Negative Calculator
+- Number Analysis Calculator
+- Parentheses Calculator
+- Percentage Calculator
+- Prime Number Calculator
+- Safe Calculator
+- Shopping Bill Calculator
 
   **My Contributions:**
-- Developed a common dashboard for Product & Recipe Management.
-- Created reusable React components for forms, cards, search
+- Developed multiple calculator applications for different mathematical operations.
+- Designed user-friendly interfaces for various calculators.
+
 
 
 ## Contact
