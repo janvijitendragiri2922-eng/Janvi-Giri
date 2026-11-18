@@ -20,10 +20,6 @@ I am a quick learner, passionate about technology, and looking for an entry-leve
 - Bootstrap
 - PHP
 
-### Database
-- MySQL
-- SQL
-
 ### Tools
 - GitHub
 - Visual Studio Code
